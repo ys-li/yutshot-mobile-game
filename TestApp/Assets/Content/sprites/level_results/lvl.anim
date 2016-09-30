@@ -1,0 +1,125 @@
+<PixlyAnimation version="1.5">
+	<Info sheetWidth="360" sheetHeight="100" totalCollumns="6" totalRows="5" frameWidth="60" frameHeight="20" layerCount="3"/>
+	<Frames length="30">
+		<Frame duration="120" visible="true">
+			<Region x="0" y="0" width="60" height="20"/>
+			<Index linear="0" collumn="0" row="0"/>
+		</Frame>
+		<Frame visible="true">
+			<Region x="60" y="0" width="60" height="20"/>
+			<Index linear="1" collumn="1" row="0"/>
+		</Frame>
+		<Frame visible="true">
+			<Region x="120" y="0" width="60" height="20"/>
+			<Index linear="2" collumn="2" row="0"/>
+		</Frame>
+		<Frame visible="true">
+			<Region x="180" y="0" width="60" height="20"/>
+			<Index linear="3" collumn="3" row="0"/>
+		</Frame>
+		<Frame duration="200" visible="true">
+			<Region x="240" y="0" width="60" height="20"/>
+			<Index linear="4" collumn="4" row="0"/>
+		</Frame>
+		<Frame visible="true">
+			<Region x="300" y="0" width="60" height="20"/>
+			<Index linear="5" collumn="5" row="0"/>
+		</Frame>
+		<Frame visible="true">
+			<Region x="0" y="20" width="60" height="20"/>
+			<Index linear="6" collumn="0" row="1"/>
+		</Frame>
+		<Frame duration="200" visible="true">
+			<Region x="60" y="20" width="60" height="20"/>
+			<Index linear="7" collumn="1" row="1"/>
+		</Frame>
+		<Frame visible="true">
+			<Region x="120" y="20" width="60" height="20"/>
+			<Index linear="8" collumn="2" row="1"/>
+		</Frame>
+		<Frame visible="true">
+			<Region x="180" y="20" width="60" height="20"/>
+			<Index linear="9" collumn="3" row="1"/>
+		</Frame>
+		<Frame duration="200" visible="true">
+			<Region x="240" y="20" width="60" height="20"/>
+			<Index linear="10" collumn="4" row="1"/>
+		</Frame>
+		<Frame visible="true">
+			<Region x="300" y="20" width="60" height="20"/>
+			<Index linear="11" collumn="5" row="1"/>
+		</Frame>
+		<Frame visible="true">
+			<Region x="0" y="40" width="60" height="20"/>
+			<Index linear="12" collumn="0" row="2"/>
+		</Frame>
+		<Frame duration="200" visible="true">
+			<Region x="60" y="40" width="60" height="20"/>
+			<Index linear="13" collumn="1" row="2"/>
+		</Frame>
+		<Frame visible="true">
+			<Region x="120" y="40" width="60" height="20"/>
+			<Index linear="14" collumn="2" row="2"/>
+		</Frame>
+		<Frame visible="true">
+			<Region x="180" y="40" width="60" height="20"/>
+			<Index linear="15" collumn="3" row="2"/>
+		</Frame>
+		<Frame duration="200" visible="true">
+			<Region x="240" y="40" width="60" height="20"/>
+			<Index linear="16" collumn="4" row="2"/>
+		</Frame>
+		<Frame visible="true">
+			<Region x="300" y="40" width="60" height="20"/>
+			<Index linear="17" collumn="5" row="2"/>
+		</Frame>
+		<Frame visible="true">
+			<Region x="0" y="60" width="60" height="20"/>
+			<Index linear="18" collumn="0" row="3"/>
+		</Frame>
+		<Frame visible="true">
+			<Region x="60" y="60" width="60" height="20"/>
+			<Index linear="19" collumn="1" row="3"/>
+		</Frame>
+		<Frame visible="true">
+			<Region x="120" y="60" width="60" height="20"/>
+			<Index linear="20" collumn="2" row="3"/>
+		</Frame>
+		<Frame visible="true">
+			<Region x="180" y="60" width="60" height="20"/>
+			<Index linear="21" collumn="3" row="3"/>
+		</Frame>
+		<Frame duration="200" visible="true">
+			<Region x="240" y="60" width="60" height="20"/>
+			<Index linear="22" collumn="4" row="3"/>
+		</Frame>
+		<Frame visible="true">
+			<Region x="300" y="60" width="60" height="20"/>
+			<Index linear="23" collumn="5" row="3"/>
+		</Frame>
+		<Frame visible="true">
+			<Region x="0" y="80" width="60" height="20"/>
+			<Index linear="24" collumn="0" row="4"/>
+		</Frame>
+		<Frame duration="200" visible="true">
+			<Region x="60" y="80" width="60" height="20"/>
+			<Index linear="25" collumn="1" row="4"/>
+		</Frame>
+		<Frame visible="true">
+			<Region x="120" y="80" width="60" height="20"/>
+			<Index linear="26" collumn="2" row="4"/>
+		</Frame>
+		<Frame visible="true">
+			<Region x="180" y="80" width="60" height="20"/>
+			<Index linear="27" collumn="3" row="4"/>
+		</Frame>
+		<Frame duration="200" visible="true">
+			<Region x="240" y="80" width="60" height="20"/>
+			<Index linear="28" collumn="4" row="4"/>
+		</Frame>
+		<Frame visible="true">
+			<Region x="300" y="80" width="60" height="20"/>
+			<Index linear="29" collumn="5" row="4"/>
+		</Frame>
+	</Frames>
+</PixlyAnimation>
